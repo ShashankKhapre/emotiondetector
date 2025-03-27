@@ -4,6 +4,3 @@
 [build.environment]
   MYSQLCLIENT_CFLAGS = "-I/usr/include/mysql"
   MYSQLCLIENT_LDFLAGS = "-L/usr/lib/mysql -lmysqlclient"
-
-[build.environment]
-  PYTHON_VERSION = "3.10"
